@@ -6,6 +6,4 @@ The script employs the `itertools` module to generate all possible combinations 
 
 To provide more advanced password cracking capabilities, the script uses the `time` module to track the start and end time of the password cracking process. The time taken to crack the password is then calculated by subtracting the start time from the end time.
 
-![Brute Force Attack](https://www.360logica.com/blog/wp-content/uploads/2019/04/Brute-Force-Attack.png)
-
 **Note:** This script is intended for educational purposes only and should not be used for malicious purposes. It is important to respect others' privacy and security.
